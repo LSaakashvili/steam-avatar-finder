@@ -55,4 +55,4 @@ if __name__ == "__main__":
     print("Input Steam Avatar Url Of User...")
     avatar_url = input("")
     
-    avatar_finder(username, avatar_url, "aeaefaefaefa")
+    avatar_finder(username, avatar_url, "sessid")
